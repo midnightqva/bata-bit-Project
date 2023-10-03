@@ -1,0 +1,11 @@
+.plans-container--body{
+    overflow-x: visible;
+    justify-content: center;
+}
+
+.cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    margin: 0 auto;
+}
